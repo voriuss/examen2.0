@@ -1,0 +1,20 @@
+body{
+  background-color: #5b7989;
+  border-top: 13px;
+}
+
+h1.titulo{
+  text-align: left;
+  text-shadow: 2px #02010a;
+  color: white;
+}
+
+nav{
+  text-align: right;
+  text-shadow: 2px#02010a;
+  color: white;
+}
+
+img{
+
+}
